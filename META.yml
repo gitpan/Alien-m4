@@ -25,4 +25,4 @@ resources:
   bugtracker: https://github.com/plicease/Alien-m4/issues
   homepage: http://perl.wdlabs.com/Alien-m4
   repository: git://github.com/plicease/Alien-m4.git
-version: '0.02'
+version: '0.03'
